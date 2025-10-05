@@ -1,0 +1,30 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "c:\\esp\\esp-idf",
+  "idf.pythonInstallPath": "C:\\esp\\tools\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.portWin": "COM14",
+  "idf.toolsPathWin": "C:\\esp\\tools",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  },
+  "files.associations": {
+    "esp_log.h": "c",
+    "i2c_master.h": "c",
+    "esp_ssd1306.h": "c",
+    "freertos.h": "c",
+    "esp_check.h": "c",
+    "oled.h": "c",
+    "esp_err.h": "c",
+    "task.h": "c",
+    "esp_idf_version.h": "c",
+    "ssd1306.h": "c",
+    "stdbool.h": "c",
+    "cstdio": "c",
+    "math.h": "c",
+    "bme280.h": "c"
+  },
+  "idf.flashType": "UART"
+}
